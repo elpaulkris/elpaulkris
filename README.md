@@ -1,5 +1,15 @@
 ## Hi there 👋, I am Christian
 
+
+🚀 About Me
+💻 FullStack Developer passionate about building apps
+😄 solving real life problems one line of code at a time
+⚡ Fun fact: I bring ideas to life
+
+
+🧠 My Favorite Stack
+
+
 <!--
 **elpaulkris/elpaulkris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

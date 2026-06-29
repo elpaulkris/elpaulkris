@@ -11,7 +11,7 @@
 - 🎥 FullStack Developer  focused on  next level Tech  
 - 💻 Passionate about building fullstack apps with **React**, **Express.js**, **Node.js** , **Next.js**, **TypeScript**, and **MongoDB**
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
-- I help businesses grow via web developement and brand influencing
+- I help businesses grow via web development and brand influencing
 
 ---
 

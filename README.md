@@ -28,6 +28,6 @@
 
 ## 🤝 Connect with Me
 
-[![Tiktok](https://img.shields.io/badge/-Tiktok-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://tiktok.com.com/@elpaulkris)
+[![Tiktok](https://img.shields.io/badge/-Tiktok-1DA1F2?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com.com/@elpaulkris)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/elpaulkris)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/elpaulkris)

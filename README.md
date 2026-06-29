@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎥 FullStack Developer passionate about building next gen apps  
+- 🎥 FullStack Developer  about next level Tech  
 - 💻 Passionate about building fullstack apps with **React**, **Next.js**, **TypeScript**, and **MongoDB**
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
 - I help businesses grow via web developement and brand influencing
